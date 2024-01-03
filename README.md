@@ -1,8 +1,9 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
+
 <h1 align="center">Hi 👋, I'm dany seifeddine</h1>
+
 <h3 align="center">Lebanese full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniseifeddine&label=Profile%20views&color=0e75b6&style=flat" alt="daniseifeddine" /> </p>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/98/98eda5b292bc33c779b8499d656f90ad_w200.gif">
 
 - 🌱 I’m currently learning **Flutter**
 
