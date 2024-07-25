@@ -54,9 +54,9 @@ Languages and Tools
 <hr>
 Statistics 
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniseifeddine&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="daniseifeddine" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniseifeddine&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="daniseifeddine" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniseifeddine&show_icons=true&locale=en&theme=vision-friendly-dark" alt="daniseifeddine" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=daniseifeddine&show_icons=true&locale=en&theme=vision-friendly-dark" alt="daniseifeddine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniseifeddine&theme=vision-friendly-dark" alt="daniseifeddine" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daniseifeddine&color=green" alt="hamzah-owaidat" /> </p>
