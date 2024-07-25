@@ -19,7 +19,7 @@
 </p>
 
 <hr>
-### Languages and Tools 
+Languages and Tools 
 <hr>
 <div>
 
@@ -52,13 +52,14 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="60" height="60"/> |
 
 <hr>
-### Statistics 
+Statistics 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniseifeddine&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="daniseifeddine" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniseifeddine&show_icons=true&locale=en&theme=vision-friendly-dark" alt="daniseifeddine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniseifeddine&theme=vision-friendly-dark" alt="daniseifeddine" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daniseifeddine&color=green" alt="hamzah-owaidat" /> </p>
 
 
 <p align="center">
