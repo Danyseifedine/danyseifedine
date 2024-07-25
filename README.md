@@ -20,7 +20,8 @@
 
 <hr>
 
-## Languages and Tools 
+### Languages and Tools 
+<hr>
 <div>
 
 ### Languages:
