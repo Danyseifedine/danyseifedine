@@ -21,7 +21,7 @@
 <hr>
 
 ### Languages and Tools 
-<hr>
+<hr style="height:1px; border:none;" />
 <div>
 
 ### Languages:
