@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **dany.a.seifeddine@gmail.com**
+- 📫 Tiktok: **https://www.tiktok.com/@lebify?_t=8olTpbJWMK8&_r=1**
+- 📫 Join our group **https://chat.whatsapp.com/BdlkvhN8M7oBV2gxrZ4aKN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
