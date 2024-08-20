@@ -72,8 +72,3 @@ Statistics
   <img src="https://komarev.com/ghpvc/?username=danyseifedine&color=green" alt="Profile View" />
 </p>
 
-
-
-<p align="center">
- <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
-</p>
