@@ -57,19 +57,19 @@ Languages and Tools
 Statistics 
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniseifeddine&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danyseifedine&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniseifeddine&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danyseifedine&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniseifeddine&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danyseifedine&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daniseifeddine&color=green" alt="Profile View" />
+  <img src="https://komarev.com/ghpvc/?username=danyseifedine&color=green" alt="Profile View" />
 </p>
 
 
