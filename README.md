@@ -143,11 +143,3 @@ I try not to get too attached to any single tool. I'd rather pick what fits the 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danyseifedine&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Activity Graph" />
 </p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danyseifedine&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a>
-</p>
