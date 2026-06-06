@@ -133,7 +133,7 @@ I try not to get too attached to any single tool. I'd rather pick what fits the 
 ### 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danyseifedine&theme=tokyonight&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danyseifedine&theme=tokyonight&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -149,5 +149,5 @@ I try not to get too attached to any single tool. I'd rather pick what fits the 
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danyseifedine&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danyseifedine&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a>
 </p>
