@@ -2,13 +2,15 @@
 
 <h1 align="center">Hi 👋 I'm Dany Seifeddine</h1>
 
-<h3 align="center">Backend-Focused Full-Stack Engineer · Fintech, Payments & Banking</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Backend-Focused+Full-Stack+Engineer;Fintech+%C2%B7+Payments+%C2%B7+Banking+Systems;Laravel+%C2%B7+NestJS+%C2%B7+Vue+%C2%B7+React;Building+reliable+systems+from+idea+to+production" /></a>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dany-seifeddine-ab6558247/"><img src="https://img.shields.io/badge/LinkedIn-Dany%20Seifeddine-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dany.a.seifeddine@gmail.com"><img src="https://img.shields.io/badge/Email-dany.a.seifeddine@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Mount%20Lebanon%2C%20Lebanon-2ecc71?style=flat&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=danyseifedine&color=green&style=flat&label=Profile%20Views" />
+  <a href="https://www.linkedin.com/in/dany-seifeddine-ab6558247/"><img src="https://img.shields.io/badge/LinkedIn-Dany%20Seifeddine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dany.a.seifeddine@gmail.com"><img src="https://img.shields.io/badge/Email-dany.a.seifeddine@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Mount%20Lebanon-Lebanon-2ecc71?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=danyseifedine&color=06B6D4&style=for-the-badge&label=Profile+Views" />
 </p>
 
 ---
@@ -17,7 +19,7 @@
 
 I'm a backend-focused full-stack engineer who enjoys building reliable, scalable systems and seeing them through from idea to production. Most of my work lives in **fintech, banking, and high-traffic web platforms**, where correctness and uptime genuinely matter.
 
-I care about clean architecture, well-designed APIs, and writing code that stays maintainable for whoever comes after me. I'm comfortable owning a project end-to-end — gathering requirements, shaping the system design, building both the backend and the frontend, and supporting it once it's live in production.
+I care about clean architecture, well-designed APIs, and writing code that stays maintainable for whoever comes after me. I'm comfortable owning a project end to end: gathering requirements, shaping the system design, building both the backend and the frontend, and supporting it once it's live in production.
 
 I try not to get too attached to any single tool. I'd rather pick what fits the problem and keep learning along the way.
 
@@ -25,21 +27,21 @@ I try not to get too attached to any single tool. I'd rather pick what fits the 
 
 ### 💼 Currently
 
-- 🏢 **Full-Stack Developer @ [Pixel38](https://www.linkedin.com/company/pixel38/)** *(Feb 2025 – Present)* — backend & frontend systems for fintech, commerce, and reservation platforms
-- 🇱🇧 **Co-Founder @ [LaraLeb](https://www.linkedin.com/company/laraleb/)** *(Jul 2025 – Present)* — the largest Laravel community in Lebanon
-- 🛠️ **Freelance Full-Stack Developer** — since Nov 2022
+- 🏢 **Full-Stack Developer @ [Pixel38](https://www.linkedin.com/company/pixel38/)** *(Feb 2025 to Present)*: backend & frontend systems for fintech, commerce, and reservation platforms
+- 🇱🇧 **Co-Founder @ [LaraLeb](https://www.linkedin.com/company/laraleb/)** *(Jul 2025 to Present)*: the largest Laravel community in Lebanon
+- 🛠️ **Freelance Full-Stack Developer** *(since Nov 2022)*
 
 ---
 
 ### 🚀 Notable work
 
-- 💳 **Technical Lead** on the **BOB Finance World Cup Cashback** platform — owned solution design and delivery end-to-end
-- 🏦 **Credit Libanais Wink** transfer engine — maintained and extended core transfer functionality
-- 🇸🇦 **Mazaya** — large-scale Saudi government platform with **75,000+ users** (at Infosysta)
-- 💰 Integrated **5 payment gateways** — HyperPay, HyperSplit, PayTabs, MontyPay, Areeba
-- 🎨 Built **Lebify UI** — the first UI library from Lebanon ([ui.lebify.online](https://ui.lebify.online))
+- 💳 **Technical Lead** on the **BOB Finance World Cup Cashback** platform: owned solution design and delivery end to end
+- 🏦 **Credit Libanais Wink** transfer engine: maintained and extended core transfer functionality
+- 🇸🇦 **Mazaya**: large-scale Saudi government platform with **75,000+ users** (at Infosysta)
+- 💰 Integrated **5 payment gateways**: HyperPay, HyperSplit, PayTabs, MontyPay, Areeba
+- 🎨 Built **Lebify UI**: the first UI library from Lebanon ([ui.lebify.online](https://ui.lebify.online))
 - 📱 Apple Wallet & Google Wallet digital memberships
-- 🤖 Real-time facial-recognition check-in (Dahua cameras + custom Express.js middleware) and AI-powered interactive experiences (OpenAI + Arduino + ESP32)
+- 🤖 Real-time facial-recognition check-in (Dahua cameras + custom Express.js middleware), and AI-powered interactive experiences (OpenAI + Arduino + ESP32)
 - 📦 APIs powering consumer apps with **100K+ downloads**
 - 🎓 Mentored **200+ students** worldwide in web development and software engineering
 
@@ -48,50 +50,50 @@ I try not to get too attached to any single tool. I'd rather pick what fits the 
 ### 🧰 Tech stack
 
 **Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 
 **Mobile**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Tools**  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
 ### 🎓 Education & Certifications
 
-- 🎓 **B.Tech Computer Science** — Islamic University of Lebanon *(2021 – 2024)*
-- 📜 JavaScript Algorithms and Data Structures — *freeCodeCamp*
-- 📜 Responsive Web Design — *freeCodeCamp*
+- 🎓 **B.Tech Computer Science**, Islamic University of Lebanon *(2021 to 2024)*
+- 📜 JavaScript Algorithms and Data Structures, *freeCodeCamp*
+- 📜 Responsive Web Design, *freeCodeCamp*
 
 ---
 
@@ -108,13 +110,44 @@ I try not to get too attached to any single tool. I'd rather pick what fits the 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub at a glance
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danyseifedine&theme=tokyonight" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danyseifedine&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danyseifedine&theme=tokyonight" alt="Most Commit Language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danyseifedine&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danyseifedine&theme=tokyonight&utcOffset=2" alt="Productive Time" />
+
+</div>
+
+---
+
+### 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danyseifedine&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=danyseifedine&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danyseifedine&theme=tokyonight&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" />
 </p>
 
+---
+
+### 📈 Activity graph
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danyseifedine&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danyseifedine&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Activity Graph" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danyseifedine&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
