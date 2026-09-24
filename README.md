@@ -123,9 +123,6 @@ I try not to get too attached to any single tool. I'd rather pick what fits the 
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
-**APIs & Integrations**  
-REST API design & versioning · real-time systems · OpenAI · Apple Wallet · Google Wallet · Aramex · DHL · payment gateways
-
 **Tools**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -135,11 +132,9 @@ REST API design & versioning · real-time systems · OpenAI · Apple Wallet · G
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education
 
-- 🎓 **B.Tech Computer Science**, Islamic University of Lebanon *(2021 to 2024)*
-- 📜 JavaScript Algorithms and Data Structures, *freeCodeCamp*
-- 📜 Responsive Web Design, *freeCodeCamp*
+🎓 **B.Tech in Computer Science**, Islamic University of Lebanon
 
 ### 🌍 Languages
 
@@ -186,10 +181,3 @@ Arabic (Native) · English (Fluent) · French (Intermediate)
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danyseifedine&theme=tokyonight&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" /></a>
 </p>
 
----
-
-### 📈 Activity graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danyseifedine&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Activity Graph" />
-</p>
