@@ -50,14 +50,6 @@ I try not to get too attached to any single tool. I'd rather pick what fits the 
 
 ---
 
-### 🚀 Featured projects
-
-- 🏥 **Clinic Management Platform**: multi-tenant, multi-module SaaS on a Laravel API + Next.js frontend. One codebase serves many clinics with isolated tenant data, built on a modular, domain-driven architecture on both backend and frontend
-- 🏍️ **[Aboulira](https://aboulira.com)**: SEO-optimized e-commerce platform for three motorcycle stores with **1,500+ products**, covering discounts, delivery, and order processing. I also handle caching, DB tuning, hosting, and production support
-- 🎨 **[Lebify UI](https://ui.lebify.online)**: the first UI library from Lebanon
-
----
-
 ### ✨ Highlights
 
 - 🇸🇦 **Mazaya**: large-scale Saudi government platform with **75,000+ users** (portal dashboard + client portal, Laravel & Vue.js)
